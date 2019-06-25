@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidCleanCode</string>
+
+    <string name="login_button">Login</string>
+    <string name="login_hint_user">User</string>
+    <string name="login_hint_password">Password</string>
+
+</resources>
